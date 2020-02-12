@@ -95,7 +95,7 @@
         })
     </script>
     <!--===============================================================================================-->
-    <script src="../../Scripts/js/main.js"></script>
+    <script src="../../Scripts/js/PageAddOns/main.js"></script>
 
 </body>
 </html>

@@ -298,6 +298,7 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+    <Content Include="Scripts\js\Send\login.js" />
     <Content Include="Vendor\bootstrap\css\bootstrap-grid.css.map" />
     <Content Include="Vendor\bootstrap\css\bootstrap-grid.min.css.map" />
     <Content Include="Vendor\bootstrap\css\bootstrap-reboot.css.map" />
@@ -315,7 +316,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Scripts\js\main.js" />
+    <Content Include="Scripts\js\PageAddOns\main.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Vendor\animate\animate.css" />
     <Content Include="Vendor\bootstrap\css\bootstrap-grid.css" />
